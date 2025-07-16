@@ -1,0 +1,16 @@
+1)Group team created
+2)create GitHuB account
+3)then create a respository about software engineering course
+4)create a new folder
+5)connect the folder with gitbash alone with the github respository quick setup link
+6)finally create txt file 
+7)documentation
+8)again command on gitbash
+9)command: 1.  git status
+           2. git add lab1.txt
+3. git status
+4. git commit -m "First Commit"
+5. git config  --global user.email "mashfikatisha88@gmail.com"
+6. git config --global user.name "MashfikaTabassumTisha"
+7. git commit -m "First Commit"
+8. git push
